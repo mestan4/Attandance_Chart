@@ -18,7 +18,7 @@ A professional iOS application designed for university clubs and social communit
 
 ## 📱 Screenshots
 *(Tip: Drag and drop your app screenshots here to showcase your UI!)*
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-20 at 13 05 48" src="https://github.com/user-attachments/assets/28d5d0d7-4dc2-41db-8803-7f931afb877b" />
+<img width="300" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-20 at 13 05 48" src="https://github.com/user-attachments/assets/28d5d0d7-4dc2-41db-8803-7f931afb877b" />
 
 ## 👨‍💻 Developer
 **Tolgahan Mestan Kaya** *Computer Engineer* [GitHub Profile](https://github.com/mestan4)
